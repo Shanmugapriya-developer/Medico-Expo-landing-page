@@ -76,7 +76,7 @@
             justify-content: center;
             height: 80vh;
             min-height: 100px;
-            background-image: url(doctor.jpg);
+            background-image: url(image/doctor.jpg);
             background-size: 100%;
             background-position: center top;
             background-repeat: no-repeat;
@@ -337,3 +337,4 @@
             opacity: 0.8;
 
         }
+
